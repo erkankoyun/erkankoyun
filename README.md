@@ -12,6 +12,8 @@ My current development work centers on **PHP, Laravel, Python, database-driven a
 
 [![Laravel Tests](https://github.com/erkankoyun/LARAVEL/actions/workflows/tests.yml/badge.svg)](https://github.com/erkankoyun/LARAVEL/actions/workflows/tests.yml)
 
+**Live Demo:** [aihan-cafe.vercel.app](https://aihan-cafe.vercel.app)
+
 A database-driven Laravel application demonstrating:
 
 - MVC architecture
@@ -27,6 +29,7 @@ A database-driven Laravel application demonstrating:
 - Automated feature testing with Pest
 - GitHub Actions continuous integration
 - Docker / Docker Compose development setup
+- Production deployment on Vercel
 
 ## 🛠️ Core Technologies
 
@@ -49,6 +52,7 @@ I combine hands-on IT experience with software development. Before moving to the
 
 ## 📫 Connect
 
+- **Live Demo:** [aihan-cafe.vercel.app](https://aihan-cafe.vercel.app)
 - **Portfolio:** [erkankoyun.com](https://erkankoyun.com)
 - **LinkedIn:** [linkedin.com/in/erkan-koyun-6aa709107](https://www.linkedin.com/in/erkan-koyun-6aa709107/)
 - **Email:** [erkankoyun@erkankoyun.com](mailto:erkankoyun@erkankoyun.com)
