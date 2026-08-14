@@ -1,0 +1,25 @@
+{
+  "name": "erkankoyun/stockflow-api",
+  "description": "Framework-free PHP and MySQL inventory REST API portfolio project",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": "^8.2",
+    "ext-json": "*",
+    "ext-pdo": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "StockFlow\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit --colors=always"
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
