@@ -1,0 +1,17 @@
+{
+  "known_actions": [
+    "view_record",
+    "external_email",
+    "data_export",
+    "admin_change"
+  ],
+  "auto_allow": [
+    "view_record"
+  ],
+  "approval_required": [
+    "external_email",
+    "data_export",
+    "admin_change"
+  ],
+  "denied_actions": []
+}
