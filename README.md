@@ -10,6 +10,8 @@ My current development work centers on **PHP, Laravel, Python, database-driven a
 
 ### [AIHAN Cafe — Laravel Backend Portfolio Project](https://github.com/erkankoyun/LARAVEL)
 
+[![Laravel Tests](https://github.com/erkankoyun/LARAVEL/actions/workflows/tests.yml/badge.svg)](https://github.com/erkankoyun/LARAVEL/actions/workflows/tests.yml)
+
 A database-driven Laravel application demonstrating:
 
 - MVC architecture
@@ -21,13 +23,14 @@ A database-driven Laravel application demonstrating:
 - Eloquent ORM and database migrations
 - Blade views and responsive UI
 - Automated feature testing with Pest
+- GitHub Actions continuous integration
 
 ## 🛠️ Core Technologies
 
 - **Backend:** PHP, Laravel
 - **Programming:** Python, Java (basic)
 - **Web:** HTML5, CSS3
-- **Development:** Git, GitHub, Composer, npm
+- **Development:** Git, GitHub, Composer, npm, GitHub Actions
 - **IT:** Technical Support, Troubleshooting, Computer Systems
 
 ## 🎯 Current Focus
