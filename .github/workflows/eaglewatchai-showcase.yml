@@ -1,0 +1,42 @@
+name: EagleWatchAI Showcase Tests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/eaglewatchai-showcase/**'
+      - '.github/workflows/eaglewatchai-showcase.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'projects/eaglewatchai-showcase/**'
+      - '.github/workflows/eaglewatchai-showcase.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Compile public showcase
+        run: |
+          python -m py_compile projects/eaglewatchai-showcase/policy_engine.py
+          python -m py_compile projects/eaglewatchai-showcase/demo.py
+
+      - name: Run tests
+        run: python -m unittest discover -s projects/eaglewatchai-showcase/tests -v
+
+      - name: Run example decision
+        run: |
+          cd projects/eaglewatchai-showcase
+          python demo.py examples/request.json --policy policy.example.json
