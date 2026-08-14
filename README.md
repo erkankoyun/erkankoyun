@@ -1,40 +1,53 @@
-# Hi, I'm Erkan Koyun 👋
+# Erkan Koyun
 
-### PHP / Laravel Backend Developer | IT Specialist
+### Software Developer | PHP • Laravel • Python | Backend Development | IT Specialist
 
-I'm a software developer and IT professional based in New York, with a background in Computer Programming and Computer Science. I focus on backend web development and enjoy building practical applications, improving systems, and solving technical problems.
+I am a software developer and IT professional based in New York, focused on building practical, reliable web applications and backend systems.
 
-## 🛠️ Technical Skills
+My current development work centers on **PHP, Laravel, Python, database-driven applications, authentication, authorization, CRUD workflows, validation, and backend problem-solving**. My professional IT background also gives me a strong foundation in troubleshooting, systems, technical support, and day-to-day technology operations.
+
+## 🚀 Featured Project
+
+### [AIHAN Cafe — Laravel Backend Portfolio Project](https://github.com/erkankoyun/LARAVEL)
+
+A database-driven Laravel application demonstrating:
+
+- MVC architecture
+- User registration, login, and logout
+- Role-based administrator authorization
+- Custom middleware
+- Product CRUD operations
+- Server-side validation
+- Eloquent ORM and database migrations
+- Blade views and responsive UI
+- Automated feature testing with Pest
+
+## 🛠️ Core Technologies
 
 - **Backend:** PHP, Laravel
-- **Database:** MySQL
 - **Programming:** Python, Java (basic)
 - **Web:** HTML5, CSS3
-- **Tools & Platforms:** Git, GitHub, Linux, Docker
+- **Development:** Git, GitHub, Composer, npm
 - **IT:** Technical Support, Troubleshooting, Computer Systems
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
-- Building PHP and Laravel backend applications
-- Developing practical web tools and automation projects
-- Improving software architecture, database, Linux, and Docker skills
-- Expanding my professional software development portfolio
-
-## 🎓 Education
-
-- **Computer Programming** — Eastern Mediterranean University, Cyprus
-- **English Language Studies** — University at Albany, SUNY
-- **Computer Science coursework** — SUNY Fulton-Montgomery Community College, New York
+- Building production-style Laravel applications
+- Strengthening backend architecture and database skills
+- Expanding automated testing and API development
+- Creating practical software projects for my professional portfolio
 
 ## 💼 Background
 
-Before moving to the United States, I worked professionally in IT, supporting computer systems, users, software, and day-to-day technology operations. My current focus is combining that IT experience with backend software development.
+I combine hands-on IT experience with software development. Before moving to the United States, I worked professionally in IT supporting computer systems, users, software, and technology operations. I am now continuing to build a focused backend development portfolio through practical projects.
 
-## 📫 Contact
+## 📫 Connect
 
-- **Email:** erkankoyun@erkankoyun.com
+- **Portfolio:** [erkankoyun.com](https://erkankoyun.com)
+- **LinkedIn:** [linkedin.com/in/erkan-koyun-6aa709107](https://www.linkedin.com/in/erkan-koyun-6aa709107/)
+- **Email:** [erkankoyun@erkankoyun.com](mailto:erkankoyun@erkankoyun.com)
 - **GitHub:** [github.com/erkankoyun](https://github.com/erkankoyun)
 
 ---
 
-*Focused on building reliable, practical software and continuously improving as a backend developer.*
+**Building reliable web applications and backend systems.**
