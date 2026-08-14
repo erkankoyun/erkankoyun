@@ -1,0 +1,35 @@
+name: Python File Automation Tests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'projects/python-file-automation/**'
+      - '.github/workflows/python-file-automation.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'projects/python-file-automation/**'
+      - '.github/workflows/python-file-automation.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Compile Python source
+        run: python -m py_compile projects/python-file-automation/organizer.py
+
+      - name: Run tests
+        run: python -m unittest discover -s projects/python-file-automation/tests -v
