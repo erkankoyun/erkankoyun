@@ -1,0 +1,11 @@
+{
+  "request_id": "demo-001",
+  "user_id": "user-42",
+  "device_id": "device-17",
+  "action": "external_email",
+  "sensitivity": "normal",
+  "context": {
+    "destination": "partner.example",
+    "purpose": "portfolio demonstration"
+  }
+}
