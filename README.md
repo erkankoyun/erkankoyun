@@ -14,9 +14,9 @@ I build practical backend applications, APIs, automation tools, and security-foc
 
 Production-deployed Laravel application demonstrating authentication, role-based administrator authorization, custom middleware, product CRUD, search/filtering, pagination, JSON API endpoints, Eloquent ORM, validation, Pest tests, GitHub Actions, and Docker.
 
-### [StockFlow API — Native PHP/MySQL Backend](https://github.com/erkankoyun/PHP)
+### [StockFlow API — Native PHP/MySQL Backend](https://github.com/erkankoyun/StockFlow-API)
 
-[![StockFlow API Tests](https://github.com/erkankoyun/PHP/actions/workflows/tests.yml/badge.svg)](https://github.com/erkankoyun/PHP/actions/workflows/tests.yml)
+[![StockFlow API Tests](https://github.com/erkankoyun/StockFlow-API/actions/workflows/tests.yml/badge.svg)](https://github.com/erkankoyun/StockFlow-API/actions/workflows/tests.yml)
 
 Framework-free PHP/MySQL REST API demonstrating schema design, PDO prepared statements, CRUD, search, filtering, pagination, validation, API-key protected write operations, Docker Compose, PHPUnit, and CI across PHP 8.2, 8.3, and 8.4.
 
