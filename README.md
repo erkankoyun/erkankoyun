@@ -4,7 +4,7 @@
 
 I am a software developer and IT professional based in New York, focused on building practical, reliable web applications and backend systems.
 
-My current development work centers on **PHP, Laravel, Python, database-driven applications, authentication, authorization, CRUD workflows, validation, and backend problem-solving**. My professional IT background also gives me a strong foundation in troubleshooting, systems, technical support, and day-to-day technology operations.
+My current development work centers on **PHP, Laravel, Python, database-driven applications, authentication, authorization, CRUD workflows, validation, API development, and backend problem-solving**. My professional IT background also gives me a strong foundation in troubleshooting, systems, technical support, and day-to-day technology operations.
 
 ## 🚀 Featured Project
 
@@ -19,18 +19,21 @@ A database-driven Laravel application demonstrating:
 - Role-based administrator authorization
 - Custom middleware
 - Product CRUD operations
+- Search, availability filtering, and pagination
+- Public JSON product API
 - Server-side validation
 - Eloquent ORM and database migrations
 - Blade views and responsive UI
 - Automated feature testing with Pest
 - GitHub Actions continuous integration
+- Docker / Docker Compose development setup
 
 ## 🛠️ Core Technologies
 
 - **Backend:** PHP, Laravel
 - **Programming:** Python, Java (basic)
 - **Web:** HTML5, CSS3
-- **Development:** Git, GitHub, Composer, npm, GitHub Actions
+- **Development:** Git, GitHub, Composer, npm, GitHub Actions, Docker
 - **IT:** Technical Support, Troubleshooting, Computer Systems
 
 ## 🎯 Current Focus
