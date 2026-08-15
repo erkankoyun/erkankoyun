@@ -20,9 +20,9 @@ Production-deployed Laravel application demonstrating authentication, role-based
 
 Framework-free PHP/MySQL REST API demonstrating schema design, PDO prepared statements, CRUD, search, filtering, pagination, validation, API-key protected write operations, Docker Compose, PHPUnit, and CI across PHP 8.2, 8.3, and 8.4.
 
-### [FilePilot — Python File Automation](./projects/python-file-automation)
+### [FilePilot — Python File Automation](https://github.com/erkankoyun/FilePilot-Python-Automation)
 
-[![Python File Automation Tests](https://github.com/erkankoyun/erkankoyun/actions/workflows/python-file-automation.yml/badge.svg)](https://github.com/erkankoyun/erkankoyun/actions/workflows/python-file-automation.yml)
+[![FilePilot Python Tests](https://github.com/erkankoyun/FilePilot-Python-Automation/actions/workflows/tests.yml/badge.svg)](https://github.com/erkankoyun/FilePilot-Python-Automation/actions/workflows/tests.yml)
 
 Dependency-free Python automation that organizes files into configurable categories, protects existing files from overwrite, supports dry-run mode, writes structured activity logs, and includes automated tests.
 
