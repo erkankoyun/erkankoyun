@@ -26,9 +26,9 @@ Framework-free PHP/MySQL REST API demonstrating schema design, PDO prepared stat
 
 Dependency-free Python automation that organizes files into configurable categories, protects existing files from overwrite, supports dry-run mode, writes structured activity logs, and includes automated tests.
 
-### [EagleWatchAI — Public Permission Gateway Showcase](./projects/eaglewatchai-showcase)
+### [EagleWatchAI — Public Permission Gateway Showcase](https://github.com/erkankoyun/EagleWatchAI-Showcase)
 
-[![EagleWatchAI Showcase Tests](https://github.com/erkankoyun/erkankoyun/actions/workflows/eaglewatchai-showcase.yml/badge.svg)](https://github.com/erkankoyun/erkankoyun/actions/workflows/eaglewatchai-showcase.yml)
+[![EagleWatchAI Showcase Tests](https://github.com/erkankoyun/EagleWatchAI-Showcase/actions/workflows/tests.yml/badge.svg)](https://github.com/erkankoyun/EagleWatchAI-Showcase/actions/workflows/tests.yml)
 
 A deliberately limited, public-safe security showcase demonstrating structured permission requests and explainable allow / deny / approval-required decisions while keeping private EagleWatchAI architecture and product-sensitive work out of the public repository.
 
